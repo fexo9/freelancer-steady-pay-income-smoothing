@@ -9,6 +9,8 @@ Turn lumpy freelance income into a fixed monthly salary — with a spreadsheet s
 - **Getly:** https://www.getly.store/product/freelancer-steady-pay-income-smoothing-system-turn-lumpy-freelance-income-into-a
 - **SellApp:** https://digitaltoolkitstore.sell.app/product/freelancer-steady-pay-income-smoothing-system-fixed-monthly-salary-from-lumpy-income
 
+Watch the 76-second demo walkthrough: https://www.youtube.com/watch?v=IWGOVmuhb5s
+
 ## What it is
 
 An 11-language Excel workbook system (EN, ZH, FR, ES, AR right-to-left, RU, DE, JA, PT, HI, IT) that implements the income-smoothing method five published sources converge on: every dollar lands in a holding account first, 25–30% moves to tax the day each payment arrives, and you pay yourself a fixed salary on the 1st — sized from your average month minus a buffer, never your best month.
